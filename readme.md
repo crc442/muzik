@@ -3,7 +3,7 @@
 Database project wow!
 
 
-## What does it work on?
+# What does it work on?
 
 - Laravel
 - Angular (not sure yet)
@@ -14,7 +14,7 @@ Database project wow!
 - Love, lots of it!
 
 
-## What you should know ?
+# What you should know ?
 
 - PHP
 - Javascript
@@ -23,7 +23,7 @@ Database project wow!
 - Sunny's penis size
 
 
-## How to get started
+# How to get started
 
 - Install MySQL
 - Install *AMP
@@ -34,12 +34,13 @@ It comes with its own version of PHP and MySQL, so properc configure it with Lar
 Done!
 
 
-## Stuff that could help you
+# Stuff that could help you
 
 - [Laravel Docs](http://laravel.com/docs)
 - [Angular Docs](http://angular.org/docs) 
+- [God](http://github.com/crc442)
 
 
-## License
+# License
 
-Made with love by [@imcrc] under [MIT Licence](http://opensource.org/licenses/MIT). So, go fuck with it, but dont forget to mention me in the fun!
+Made with love by [@imcrc](http://twitter.com/imcrc) under [MIT Licence](http://opensource.org/licenses/MIT). So, go fuck with it, but dont forget to mention me in the fun!
