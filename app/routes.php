@@ -11,7 +11,14 @@
 |
 */
 
-Route::get('/', function()
+Route::get('/', array('uses' => 'HomeController@showHome'));
+
+Route::get('/login', array('uses' => 'HomeController@showLogin'));
+
+Route::get('/register', array('uses' => 'HomeController@showRegister'));
+
+Route::get('/test', function()
 {
-	return View::make('hello');
+	$users = DB::table('users')->get();
+	return $users;
 });
